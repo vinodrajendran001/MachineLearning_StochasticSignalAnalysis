@@ -1,0 +1,78 @@
+attrs==19.3.0
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
+blinker==1.4
+boto3==1.12.39
+botocore==1.15.39
+certifi==2020.6.20
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+docutils==0.15.2
+entrypoints==0.3
+enum-compat==0.0.3
+future==0.18.2
+importlib-metadata @ file:///D:/bld/importlib-metadata_1593211612489/work
+ipykernel @ file:///D:/bld/ipykernel_1595447157738/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///D:/bld/ipython_1593235680304/work
+ipython-genutils==0.2.0
+jedi @ file:///D:/bld/jedi_1595018503144/work
+Jinja2==2.11.2
+jmespath==0.9.5
+joblib==0.16.0
+jsonschema==3.2.0
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1594732094290/work
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib==3.3.0
+mistune==0.8.4
+nb-conda==2.2.1
+nb-conda-kernels==2.2.3
+nbconvert==5.6.1
+nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
+notebook @ file:///D:/bld/notebook_1594079038368/work
+numpy==1.19.1
+packaging==20.3
+pandas==1.0.5
+pandocfilters==1.4.2
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1595548966091/work
+pathtools==0.1.2
+pickleshare==0.7.5
+Pillow==7.2.0
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1592500439797/work
+pydeck==0.3.0
+Pygments==2.6.1
+pyparsing==2.4.7
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2020.1
+PyWavelets==1.1.1
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.1
+s3transfer==0.3.3
+scikit-learn==0.23.1
+scipy==1.5.2
+seaborn==0.10.1
+Send2Trash==1.5.0
+siml==0.3.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+streamlit==0.57.3
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl==2.1.0
+toml==0.10.0
+torch==1.5.1+cpu
+torchvision==0.6.1+cpu
+tornado==6.0.4
+traitlets==4.3.3
+tzlocal==2.0.0
+validators==0.14.3
+watchdog==0.10.2
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1592931742287/work
+webencodings==0.5.1
+wincertstore==0.2
+zipp==3.1.0
