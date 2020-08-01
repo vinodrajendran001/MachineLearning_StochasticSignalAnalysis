@@ -124,6 +124,8 @@ class HARDataset(Dataset):
         return len(self.X)
 
 
+
+
 if __name__ == '__main__':
 
     dl = HARDataLoader('data/raw/UCI_HAR_Dataset')
