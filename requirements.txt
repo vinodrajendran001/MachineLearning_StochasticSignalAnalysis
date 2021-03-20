@@ -18,7 +18,7 @@ ipykernel @ file:///D:/bld/ipykernel_1595447157738/work/dist/ipykernel-5.3.4-py3
 ipython @ file:///D:/bld/ipython_1593235680304/work
 ipython-genutils==0.2.0
 jedi @ file:///D:/bld/jedi_1595018503144/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.9.5
 joblib==0.16.0
 jsonschema==3.2.0
