@@ -4,7 +4,7 @@ bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/
 blinker==1.4
 boto3==1.12.39
 botocore==1.15.39
-certifi==2020.6.20
+certifi==2022.12.7
 colorama==0.4.3
 cycler==0.10.0
 decorator==4.4.2
